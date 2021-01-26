@@ -13,7 +13,7 @@ Right now at DCI we are working on UI/UX and will shortly move on to Javascript.
 #### Currently learning: ####
  - Javascript 
 
-Just finished my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/jonathanshine/responsive-web-design) from [freeCodeCamp](https://www.freecodecamp.org/jonathanshine) in January!
+Just claimed my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/jonathanshine/responsive-web-design) from [freeCodeCamp](https://www.freecodecamp.org/jonathanshine) in January!
 
 <!--
 **jonathanshine/jonathanshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
