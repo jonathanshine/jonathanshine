@@ -4,11 +4,14 @@ I'm an aspiring web developer/already-professional opera and choir singer locate
 
 Right now at DCI we are working on UI/UX and will shortly move on to Javascript.
 
-#### Languages and tools I'm using so far: ####
+#### Languages and tools I'm using: ####
  - VS Code
  - Git
  - HTML
  - CSS
+ 
+#### Currently learning: ####
+ - Javascript 
 
 Just finished my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/jonathanshine/responsive-web-design) from [freeCodeCamp](https://www.freecodecamp.org/jonathanshine) in January!
 
