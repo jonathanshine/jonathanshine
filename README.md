@@ -9,6 +9,8 @@ Right now at DCI we are working on UI/UX and will shortly move on to Javascript.
  - Git
  - HTML
  - CSS
+ - Bootstrap
+ - SASS
  
 #### Currently learning: ####
  - Javascript 
