@@ -2,11 +2,14 @@
 
 I'm an aspiring web developer/already-professional opera and choir singer located in Berlin. Currently I am studying in the Web Devlopement Program at [Digital Career Institute](https://digitalcareerinstitute.org) and using any and all online resources/courses I can get my fingers on.
 
-Right now at DCI we are working on UI/UX and will shortly move on to Javascript.
+Currently we are in the backend module, creating relational databases with MongoDb and Express.js.
 
 #### Languages and tools I'm using: ####
  - Javascript (ES6)
  - React
+ - MongoDB
+ - Express.js
+ - Node.js
  - HTML
  - CSS
  - Bootstrap
