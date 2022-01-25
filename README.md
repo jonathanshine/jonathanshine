@@ -1,11 +1,14 @@
 ### Hey there, it's Jonathan!
 
-I'm an aspiring web developer/already-professional opera and choir singer located in Berlin. Currently I am studying in the Web Devlopement Program at [Digital Career Institute](https://digitalcareerinstitute.org) and using any and all online resources/courses I can get my fingers on.
+I'm a web developer and professional opera and choir singer located in Berlin. Currently I am working as the Frontend Development Intern at traide AI[traide.ai]. My current project at traide is writing a custom hook using redux logic for implementing tables in our application.
 
-Currently we are in the backend module, creating databases with MongoDb and Express.js.
+#### Currently learning: ####
+ - TypeScript
+ - Redux
+ - Chakra UI
 
 #### Languages and tools I'm using: ####
- - Javascript (ES6)
+ - JavaScript (ES6)
  - React
  - MongoDB
  - Express.js
@@ -17,12 +20,7 @@ Currently we are in the backend module, creating databases with MongoDb and Expr
  - VS Code
  - Git
  
-#### Currently learning: ####
- - MongoDB
- - Express.js 
-
-Just claimed my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/jonathanshine/responsive-web-design) from [freeCodeCamp](https://www.freecodecamp.org/jonathanshine) in January!
-
+ 
 <!--
 **jonathanshine/jonathanshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
