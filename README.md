@@ -1,10 +1,12 @@
 ### Hey there, it's Jonathan!
 
-I'm a web developer and professional opera and choir singer located in Berlin. Currently I am working as the Frontend Development Intern at [traide AI](http://traide.ai). My current project at traide is writing a custom hook using redux logic for implementing actions in tables throughout our application.
+I'm a web developer and professional opera and choir singer located in Berlin. Currently I am working as Junior Software Engineer at [Breeze Technologies](https://www.breeze-technologies.de/). In my current position I am working on the full spectrum of development - creating and updating UIs with React and Typescript, configuring our SQL and Mongoose databases with Node.js, deployment of applications using BitBucket and Azure, and maintaining various services hosted on our Azure Cloud.
 
 #### Currently learning: ####
  - TypeScript
+ - Microsoft Azure
  - Redux
+ - MySQL
  - Chakra UI
 
 #### Languages and tools I'm using: ####
