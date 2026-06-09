@@ -1,25 +1,20 @@
 ### Hey there, it's Jonathan!
 
-I'm a web developer and professional opera and choir singer located in Berlin. Currently I am working as Junior Software Engineer at [Breeze Technologies](https://www.breeze-technologies.de/). In my current position I am working on the full spectrum of development - creating and updating UIs with React and Typescript, configuring our SQL and Mongoose databases with Node.js, deployment of applications using BitBucket and Azure, and maintaining various services hosted on our Azure Cloud.
-
-#### Currently learning: ####
- - TypeScript
- - Microsoft Azure
- - Redux
- - MySQL
- - Chakra UI
+I'm a web developer and professional opera and choir singer located in Berlin. Currently I am working as Junior Software Engineer at [Breeze Technologies](https://www.breeze-technologies.de/). In my current position I am working on the full spectrum of development - creating and updating UIs with React and Typescript, configuring APIs in Node.js, maintaining our SQL and Mongoose databases, deployment of applications using BitBucket and Azure, and maintaining various services hosted on our Azure Cloud.
 
 #### Languages and tools I'm using: ####
- - JavaScript (ES6)
+ - TypeScript
+ - TanStack Query and Forms
+ - Microsoft Azure
+ - MySQL
+ - Chakra UI
+ - JavaScript
  - React
  - MongoDB
  - Express.js
  - Node.js
  - HTML
  - CSS
- - Bootstrap
- - SASS
- - VS Code
  - Git
  
  Feel free to reach out to me at jonathanhenryshine@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/jonathan-shine/) profile.
